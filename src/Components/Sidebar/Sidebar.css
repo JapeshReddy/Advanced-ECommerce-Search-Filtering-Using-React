@@ -1,0 +1,22 @@
+aside{
+    position: fixed;
+    width: 15%;
+    border-right: solid 2px #ededed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+
+
+.categories{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+aside i{
+    margin-top: 30px;
+}
+
